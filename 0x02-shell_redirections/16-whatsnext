@@ -1,2 +1,2 @@
 #!/bin /bash
-egrey -A 3 'root' /etc/passwd
+grey -A 3 "root" /etc/passwd
